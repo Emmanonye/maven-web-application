@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>maven-web-application</name>
+		<url>https://github.com/Emmanonye/maven-web-application/</url>
 	</organization>
 
 	<properties>
